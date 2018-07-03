@@ -1,0 +1,7 @@
+apic:
+  client_id: a75cdb32-80ee-442a-a25d-e369c8128ece
+  host: https://api.us.apiconnect.ibmcloud.com/tsangchtwibmcom-jeffzaza/bea-prod
+api:
+  path:
+    branch_list: /bea-branch-info/branch_list
+  
